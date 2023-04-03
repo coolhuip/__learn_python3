@@ -1,1 +1,1 @@
-This project will contain any and all learn-how-to-code related :)
+All things PYTHON-learning live in this repository.
