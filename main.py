@@ -33,7 +33,7 @@ for i in range(3):
 f1.write("\n")
 f1.close()
 
-# good --> use the "with-as" keyword.
+# GOOD --> use the "with-as" keyword.
 with open(filename, "a+") as f2:
     for i in range(3):
         f2.write("Appended by GOOD practice\n")
