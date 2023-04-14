@@ -1,9 +1,5 @@
 """
-This is going to be one giant Python3 file filled w/ code for review.
-----------------------------------------------------------------------------
-As a tech intern, ignorance is expected.
-But, there is NO excuse for not knowing things that you should already know
-  according to your resume.
+Python Mistakes Review
 """
 from __future__ import annotations
 from typing import Any, Optional
@@ -42,4 +38,4 @@ with open(filename, "a+") as f2:
 
 if __name__ == "__main__":
     import doctest
-    doctest.testmod()   
+    doctest.testmod()
