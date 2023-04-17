@@ -64,7 +64,7 @@ def add_sum(a: int, b: Callable[[int, list[int, str]], int]):
 
 print("DEMO: Callable type")
 print("Result of add_sum(3, add(7, [10, '209'])) = "
-            , add_sum(3, add(7, [10, "209"])))
+                                            , add_sum(3, add(7, [10, "209"])))
 
 
 
